@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Yong Zhe 👋
 
-<!--
-**oyz13085/oyz13085** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Year 1 Computer Science (AI) @ Universiti Malaya  
+🔐 Interested in Cybersecurity, DFIR & AI  
+🌍 FTC World Championship 2023 — Team Captain (Houston)  
+🏆 Top 20 Regional / Top 300 Global — SANS BootUp CTF 2026  
+📍 Kuala Lumpur, Malaysia  
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Languages:** Python, TypeScript, Dart
+- **Cybersecurity:** DFIR, Network Forensics, Memory Forensics, Wireshark, Volatility
+- **Tools:** Kali Linux, VMware, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- [tauke-ai](https://github.com/oyz13085/tauke-ai) — AI Decision Intelligence for Malaysian F&B micro-SMEs
+- [medscan](https://github.com/oyz13085/medscan) — AI hospital bill auditing platform (KitaHack 2026)
+- [padi-plates-ai-mvp](https://github.com/oyz13085/padi-plates-ai-mvp) — Rice disease detection AI (Gemini + Vertex AI)
+- [File-Sorter](https://github.com/oyz13085/File-Sorter) — Python directory automation tool
+
+## 📫 Contact
+- 💼 [LinkedIn](https://linkedin.com/in/ooi-yong-zhe-735a93388)
+- 📧 oyz13085@gmail.com
