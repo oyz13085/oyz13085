@@ -16,6 +16,7 @@
 - [medscan](https://github.com/oyz13085/medscan) — AI hospital bill auditing platform (KitaHack 2026)
 - [padi-plates-ai-mvp](https://github.com/oyz13085/padi-plates-ai-mvp) — Rice disease detection AI (Gemini + Vertex AI)
 - [dengan-mu](https://github.com/oyz13085/dengan-mu) — AI virtual caretaker for Malaysian elderly (UMSIC 2025)
+- [EWN-Puzzle-Solver](https://github.com/oyz13085/EWN-Puzzle-Solver) — Beam Search pathfinding solver in Java
 - [File-Sorter](https://github.com/oyz13085/File-Sorter) — Python directory automation tool
 
 ## 📫 Contact
